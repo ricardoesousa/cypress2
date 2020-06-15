@@ -1,0 +1,31 @@
+salesforce
+
+qualidadegft@gft.com
+GFT202005
+Em que cidade vc nasceu?
+Sorocaba
+
+Para fazer login facilmente mais tarde, salve este URL:
+https://login.salesforce.com/
+ 
+
+
+Nome de usuário:
+qualidadegft@gft.com
+
+- Tela de Login (usuário e senha e botão)
+- Iniciador de aplicativos
+
+  -- Serviços
+    -- Contas
+      -- Cadastrar uma conta
+      -- Excluir uma conta.
+
+- pages
+  -- Login
+  -- Aplicativos
+  -- ServicosMenu
+  -- ContasGrid
+  -- ContasForm
+
+

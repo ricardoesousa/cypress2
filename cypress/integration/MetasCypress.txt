@@ -1,0 +1,23 @@
+Cypress:
+
+- Farms
+  - BrowserStack
+- Reports
+  - Report Portal
+- Paralelismo
+  - Testes Paralelos
+- Plugins e ferramentas de build
+  - Azure Pipeline
+  - Jenkins
+  - Bamboo
+- Cucumber
+
+
+
+
+
+
+
+Ricardo dos Santos Rego - QA - Automação de SalesForce.
+
+Ambiente da POC: Rubens irá verificar;
