@@ -1,4 +1,4 @@
 {
-    "defaultCommandTimeout": 10000,
-    "baseUrl": "https://login.salesforce.com"
+    "baseUrl": "https://login.salesforce.com",
+    "chromeWebSecurity": false
 }
